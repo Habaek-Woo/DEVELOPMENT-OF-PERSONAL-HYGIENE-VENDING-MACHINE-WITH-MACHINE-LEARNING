@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31765968/README.md)
 ## Personal Hygiene Vending Machine (Raspberry Pi Prototype)
 
 **Version:** v.0.01
